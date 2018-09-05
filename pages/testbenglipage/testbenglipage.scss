@@ -1,0 +1,71 @@
+page-testbenglipage {
+
+    .card-body {
+    }
+    .card-body ul li {
+        padding: 5px 10px 5px 3px;
+        color:  #000000;
+        list-style-type: none;
+        font-weight: 600;
+        text-align: left;
+    }
+    .card-body ul li ul li {
+        padding: 5px 3px 5px 3px;
+        color:  #000000;
+        list-style-type: none;
+        font-weight: 600;
+        text-align: left;
+    }
+    .hdColNor1 {
+        color: #012e80;
+    }
+    .hdColNor2 {
+        color: #012e80;
+        font-size: 16px;
+        line-height:  22pxl
+    }
+    .hd2ColNor2 {
+        color: #012e80;
+        text-align: left;
+        margin: 25px 0px 5px 10px;
+        font-size:  16px;
+        font-weight:  500;
+    }
+    .hd2ColNor3 {
+        color: #012e80;
+        text-align: left;
+        margin: 15px 0px 5px 10px;
+        font-size:  16px;
+        font-weight:  500;
+    }
+    .hd3ColNor2 {
+        color: #012e80;
+        font-size: 19px;
+        line-height:  22pxl
+    }
+    .listinSTYgnone {
+        list-style-type: none;
+    }
+    .card-header-ios {
+        font-size: 15px;
+        font-weight: 500;
+        color: #333;
+        padding: 8px;
+    }
+    .card-header-ios.thead{
+        font-size: 15px;
+        font-weight: 500;
+        color: #333;
+        padding-top: 18px;
+    }
+    .button-sp2 {
+        margin: 8px 0px 8px 0px;
+    }
+    .card-bg {
+        background: url('../assets/imgs/card-bg0.jpg') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

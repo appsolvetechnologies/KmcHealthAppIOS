@@ -1,0 +1,43 @@
+page-home {
+
+    .button-md{
+        height:  auto;
+        background: transparent !important;
+        box-shadow: transparent !important;
+    }
+    .button-ios{
+        height:  auto;
+        background: transparent !important;
+        box-shadow: transparent !important;
+    }
+    .button-wp {
+        height:  auto;
+        background: transparent !important;
+        box-shadow: transparent !important;
+    }
+    .bgspecial {
+        background: url(../assets/imgs/01-WELCOME-BG.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+    .specialpone {
+        font-size: 12px; 
+        color: #FFFFFF; 
+        text-shadow: 2px 1px 0px rgba(30, 30, 30, 1); 
+        text-align: center;margin:0;
+    }
+    .specialh2 {
+        text-align: center; 
+        font-family: 'Roboto', sans-serif; 
+        font-weight: 400; 
+        color: #ffffff;
+        font-size: 24px; 
+        line-height: 26px; 
+        text-shadow: 2px 1px 0px rgba(30, 30, 30, 1);
+        text-transform: capitalize;
+        margin: 8px 0px 7px 0px;
+    }
+
+}

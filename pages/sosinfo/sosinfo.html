@@ -1,0 +1,133 @@
+<!--
+  Generated template for the SosinfoPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+    <ion-navbar>
+      <ion-title>LIVE SAVER APP</ion-title>
+    </ion-navbar>
+  
+  </ion-header>
+  
+  
+  <ion-content padding class="bgspecial">
+  
+    <ion-card class="card-bg"> 
+       
+     <div class="card-body">
+       <ion-list radio-group [(ngModel)]="first">
+         
+         <ion-list-header class="block-header-one">
+             Select Symptoms
+         </ion-list-header>
+   
+         <ion-item>
+           <ion-label>Acute Chest Pain</ion-label>
+           <ion-radio value="Acute Chest Pain"></ion-radio>
+         </ion-item>
+         <div style="height: 1px; background-color: #d7d7d7;"></div>
+         <ion-item>
+           <ion-label>Accident</ion-label>
+           <ion-radio  value="Accident"></ion-radio>
+         </ion-item>
+         <div style="height: 1px; background-color: #d7d7d7;"></div>
+         <ion-item>
+           <ion-label>Acute Labour Pain</ion-label>
+           <ion-radio value="Acute Labour Pain"></ion-radio>
+         </ion-item>
+         <div style="height: 1px; background-color: #d7d7d7;"></div>
+         <ion-item>
+           <ion-label>Numbness or <br/>Paralytic Situation</ion-label>
+           <ion-radio value="Paralytic Situation"></ion-radio>
+         </ion-item>
+         <div style="height: 1px; background-color: #d7d7d7;"></div>
+         <ion-item>
+           <ion-label>Major Burn</ion-label>
+           <ion-radio value="Major Burn"></ion-radio>
+         </ion-item>
+       </ion-list>
+     </div>
+     </ion-card>
+   
+   
+     <ion-card class="card-bg"> 
+       
+       <div class="card-body">
+         <ion-list radio-group [(ngModel)]="second">
+           
+           <ion-list-header class="block-header-two">
+               Select Department (optional)
+           </ion-list-header>
+     
+           <ion-item>
+             <ion-label>Cardiology</ion-label>
+             <ion-radio value="Cardiology"></ion-radio>
+           </ion-item>
+           <div style="height: 1px; background-color: #d7d7d7;"></div>
+           <ion-item>
+             <ion-label>Neurology</ion-label>
+             <ion-radio value="Neurology"></ion-radio>
+           </ion-item>
+           <div style="height: 1px; background-color: #d7d7d7;"></div>
+           <ion-item>
+             <ion-label>Medicine</ion-label>
+             <ion-radio value="Medicine"></ion-radio>
+           </ion-item>
+           <div style="height: 1px; background-color: #d7d7d7;"></div>
+           <ion-item>
+             <ion-label> Orthopedics</ion-label>
+             <ion-radio value="Orthopedics"></ion-radio>
+           </ion-item>
+           <div style="height: 1px; background-color: #d7d7d7;"></div>
+           <ion-item>
+             <ion-label>Gynae</ion-label>
+             <ion-radio value="Gynae"></ion-radio>
+           </ion-item>
+           <div style="height: 1px; background-color: #d7d7d7;"></div>
+           <ion-item>
+               <ion-label>Pulmonology</ion-label>
+               <ion-radio value="Pulmonology"></ion-radio>
+             </ion-item>
+         </ion-list>
+       </div>
+     </ion-card>
+
+
+     <ion-card class="card-bg">        
+        <div class="card-body">
+          <ion-list radio-group [(ngModel)]="third">            
+            <ion-list-header class="block-header-two">
+                select solution 
+            </ion-list-header>      
+            <ion-item>
+              <ion-label>
+                  To Saved Emergency Contacts</ion-label>
+              <ion-radio value="1"></ion-radio>
+            </ion-item>
+            <div style="height: 1px; background-color: #d7d7d7;">
+              OR send to Hospital / Ambulance (including emergency contacts)
+            </div>
+            <ion-item>
+                <ion-label>To Hopital Only</ion-label>
+                <ion-radio value="2"></ion-radio>
+            </ion-item>
+              <!-- top 5 within 5 km radius where a radius or search a hospital
+                call option after submission
+              -->
+            <ion-item>
+              <ion-label>To Ambulance Only</ion-label>
+              <ion-radio value="3"></ion-radio>
+            </ion-item>
+            <ion-item>
+                <ion-label>To Hospital &amp; Ambulance</ion-label>
+                <ion-radio value="4"></ion-radio>
+            </ion-item>
+          </ion-list>
+        </div>
+      </ion-card>
+     <button ion-button block color="danger" (click)="save()">SUBMIT</button>   
+    <!-- 102 ambulance service -->
+   </ion-content>

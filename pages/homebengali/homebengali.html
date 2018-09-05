@@ -1,0 +1,147 @@
+<ion-header style="background-color:#0187c9;">
+    <ion-navbar style="background-color:#0187c9;">
+      <button ion-button menuToggle>
+        <ion-icon name="menu"></ion-icon>
+      </button>
+      <ion-title style="font-size: 16px;">KMC</ion-title>
+    </ion-navbar>
+  </ion-header>
+  
+  <ion-content class="bgspecial">
+    <!--Start -->
+    <ion-grid style="padding:0%">	
+        <ion-row style="background-color: #0187c9;">
+            <ion-col>
+                <div class="sub-page-top-hd">                
+                    <h2 class="specialh2">
+                        KMC HEALTH APP
+                    </h2>
+                </div>	
+            </ion-col>
+        </ion-row>
+    </ion-grid>
+  <ion-grid>
+  <ion-row style="margin:20px 0px 3px 0px">
+    <ion-col col-4>
+      <button ion-button (click)="navigate('denguebngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-1.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+        ডেঙ্গি
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate('malariabngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-2.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+        ম্যালেরিয়া
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate('mbdbngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-3.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+         মশা বাহিত রোগ
+      </p>
+    </ion-col>
+  </ion-row>
+  <ion-row style="margin:3px 0px 3px 0px">
+    <ion-col col-4>
+      <button ion-button (click)="navigate('achievementsbngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-4.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+        কৃতিত্ব
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate('healthcenterbngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-5.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+        স্বাস্থ্য কেন্দ্র
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate('announcementbngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-6.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+        ঘোষণা
+      </p>
+    </ion-col>
+  </ion-row>
+  <ion-row style="margin:3px 0px 15px 0px">
+    <ion-col col-4>
+      <button ion-button (click)="navigate('boroughofficebngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-7.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+          বোরো অফিস
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate()">
+        <div text-center>
+          <img src="assets/imgs/icon-8.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+          ওয়েবসাইট
+      </p>
+    </ion-col>
+    <ion-col col-4>
+      <button ion-button (click)="navigate('contactusbngli')">
+        <div text-center>
+          <img src="assets/imgs/icon-9.png"  />
+        </div>
+      </button>
+      <p class="specialpone">
+          যোগাযোগ
+      </p>
+    </ion-col>
+  </ion-row>
+  </ion-grid>
+  
+  <ion-grid text-center style="margin: 5px 0 5px 0; padding: 2px 15px;">
+    <ion-row>
+      <ion-col col-12 style="padding: 1px 0px;">
+        <a style="cursor:pointer;" 
+        onclick="window.open('http://www.snaayou.com/', '_system', 'location=yes,menubar=yes')">
+            <div text-center>
+              <img src="assets/imgs/snaayou-hm-but.png" style="margin: 2px 0px 2px 0px;"/>
+            </div>
+       </a>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+  <ion-grid text-center style="margin: 1px 0 1px 0; padding: 2px 15px">
+    <ion-row>
+      <ion-col col-12 style="padding: 1px 0px;">
+          <button ion-button (click)="navigate('sosmaineng')" style="border: 0px; padding: 0px; margin: 0px;">
+            <div text-center>
+              <img src="assets/imgs/life-save-app.png" style="margin: 2px 0px 2px 0px;"/>
+            </div>
+        </button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+    <!-- End -->
+    <!--<button ion-button secondary menuToggle>Toggle Menu</button>-->
+  </ion-content>

@@ -1,0 +1,35 @@
+page-denguetreatmenthindi {
+    .card-body {
+
+    }
+    .card-body ul li {
+        padding: 4px 0px 4px 2px;
+        color:  #000000;
+    }
+    .hdColNor1 {
+        color: #012e80;
+    }
+    .hdColNor2 {
+        color: #012e80;
+        font-size: 16px;
+        line-height:  22pxl
+    }
+    .hd2ColNor2 {
+        color: #e10000;
+    }
+    .hd3ColNor2 {
+        color: #012e80;
+        font-size: 19px;
+        line-height:  22pxl
+    }
+    .listinSTYgnone {
+        list-style-type: none;
+    }
+    .bgspecial {
+        background: url(../assets/imgs/dengue-bg-1.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

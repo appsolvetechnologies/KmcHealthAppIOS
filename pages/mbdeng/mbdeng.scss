@@ -1,0 +1,27 @@
+page-mbdeng {
+    .card-body {
+
+    }
+    .card-body ul li {
+        padding: 4px 0px 4px 1px;
+        color:  #000000;
+    }
+    .hdColNor1 {
+        color: #012e80;
+        font-size: 18px;
+    }
+    .hdColRed1 {
+        color: #e10000;
+    }
+    .listinSTYgnone {
+        list-style-type: none;
+
+    }
+    .bgspecial {
+        background: url(../assets/imgs/mbd-bg.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

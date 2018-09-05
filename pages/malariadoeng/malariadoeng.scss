@@ -1,0 +1,15 @@
+page-malariadoeng {
+    .card-body ol li {
+        padding:  5px 0px 5px 0px;
+    }
+    .card-body ul li {
+        padding:  5px 0px 5px 0px;
+    }
+    .bgspecial {
+        background: url(../assets/imgs/do-bg.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Save your emergency contacts
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngIf="peproni1">
+      <ion-item>
+          <ion-input *ngIf="peproni1" type="text" [(ngModel)]="username" placeholder="Enter your name"></ion-input>
+        </ion-item>
+        <ion-item>
+          <ion-input *ngIf="peproni1" type="text" [(ngModel)]="emailid" placeholder="Enter your email id"></ion-input>
+        </ion-item>
+        <ion-item>
+          <ion-input *ngIf="peproni1" type="text" [(ngModel)]="phno" placeholder="Enter your phone number"></ion-input>
+        </ion-item>
+        <ion-item>
+          <ion-input *ngIf="peproni1" type="text" [(ngModel)]="phno1" placeholder="Enter SOS contact number"></ion-input>
+        </ion-item>
+        <ion-item>
+          <ion-input *ngIf="peproni1" type="text" [(ngModel)]="phno2" placeholder="Enter another SOS contact number"></ion-input>
+        </ion-item>
+        <button *ngIf="peproni1" ion-button color="danger" (click)="save()" >Save SOS Info</button>
+  </ion-card>
+        
+        
+        <ion-list>
+        
+        <ion-item href="#" *ngFor="let x of items" >
+          Name : {{x.name}} 
+          <br/>
+          Phone Number : {{x.phno}}
+          <br/>
+          Email Id : {{x.emailid}}
+        </ion-item>       
+        </ion-list>       
+        <!--*ngIf="peproni"-->
+        <button id="shownext" ion-button color="danger" *ngIf="peproni"  (click)="navigate('sos')" >
+         PRESS FOR LIVE SAVER APP <i class="icon ion-chevron-right"></i></button>
+</ion-content>

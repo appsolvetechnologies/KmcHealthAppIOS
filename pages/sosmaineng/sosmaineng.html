@@ -1,0 +1,42 @@
+<ion-content class="sos-bg">
+  <!--Start -->
+
+<ion-grid style="padding:0%">	
+    <ion-row text-center style="background-color: #ffffff;">
+        <ion-col>
+            <div class="sub-page-top-hd">                
+              <img src="assets/imgs/snaayou-logo.png" style="margin-top: 8px;"/>
+            </div>	
+        </ion-col>
+    </ion-row>
+</ion-grid>
+
+<ion-grid>
+<ion-row>
+  <ion-col col-12  text-center>
+      <button ion-button (click)="navigate('userInfo')" style="height: 100%;">
+          <div>
+            <img src="assets/imgs/SOS-BUTTON.png" style=" margin: 60% 0 50% 0;"/>
+          </div>
+      </button>
+      <ion-card>       
+    
+        <ion-item>
+          <ion-label stacked>Message</ion-label>
+          <ion-textarea [(ngModel)]="text.message"></ion-textarea>
+        </ion-item>
+    
+        <ion-item>
+          <button ion-button icon-left clear item-right (click)="sendTextMessage()">
+          <ion-icon name="checkmark"></ion-icon>
+          Send
+        </button>
+        </ion-item>
+      </ion-card>
+  </ion-col>
+</ion-row>
+</ion-grid>
+  <!-- End -->
+  <!--<button ion-button secondary menuToggle>Toggle Menu</button>-->
+</ion-content>
+

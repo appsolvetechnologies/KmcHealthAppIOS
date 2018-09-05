@@ -1,0 +1,25 @@
+page-achievementseng {
+    .card-body {
+
+    }
+    .card-body ul li {
+        padding: 3px 0px 3px 3px;
+        color:  #000000;
+    }
+    .hdColNor1 {
+        color: #012e80;
+        text-transform:  uppercase;
+        font-size:  18px;
+    }
+    .listinSTYgnone {
+        list-style-type: none;
+
+    }
+    .bgspecial {
+        background: url(../assets/imgs/achivement-bg.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

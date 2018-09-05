@@ -1,0 +1,15 @@
+page-denguediagnosiseng {
+    .card-body{
+
+    }
+    .card-body p {
+        line-height: 18px;
+    }
+    .bgspecial {
+        background: url(../assets/imgs/blood-bg-1.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+}

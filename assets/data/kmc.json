@@ -1,0 +1,1274 @@
+
+{
+	"museums":[
+ {
+   "sku": "kmc-health-032",
+   "name": "KMC Health Unit Branch-4 Ward-25",
+   "address1": "9A Baranashi Ghosh Lane, Kolkata -700006, Landmark- Near Simla Byayam Samiti",
+   "latitude": 22.5848423,
+   "longitude": 88.3613306,
+   "pincode": 700006,
+   "status": ""
+ },
+ {
+   "sku": "kmc-health-001",
+   "name": "KMC Health Unit Branch-1 Ward-1",
+   "address1": "1B Gopal Chatterjee Road, Kolkata - 700002 Landmark- Crossing of Chitpur Road and Cossipore Road[Near Uttarayan Community Hall]",
+   "latitude": 22.627574,
+   "longitude": 88.3750427,
+   "pincode": 700002,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-002",
+   "name": "KMC Health Unit Branch-1 Ward-2",
+   "address1": "134 Kalicharan Ghosh Road Kolkata-700050, Landmark- Phoara More",
+   "latitude": 22.6269132,
+   "longitude": 88.3863196,
+   "pincode": 700050,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-004",
+   "name": "KMC Health Unit Branch-1 Ward-4",
+   "address1": "26/59 Dum Dum Road Kolkata-700002, Landmark- Camellia House beside Gokhana Bustee",
+   "latitude": 22.6181166,
+   "longitude": 88.3783359,
+   "pincode": 700002,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-098",
+   "name": "KMC Health Unit Branch-10 Ward-99",
+   "address1": "2 Shree Colony, Vivekananda Park, Kolkata-700092, Landmark- Near Yubasangha Playground",
+   "latitude": 22.617365,
+   "longitude": 88.413109,
+   "pincode": 700092,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-006",
+   "name": "KMC Health Unit Branch-1 Ward-6",
+   "address1": "10 BT Road Kolkata-700002, Landmark- Paikpara Bus Stop on BT Road",
+   "latitude": 22.6156449,
+   "longitude": 88.3762966,
+   "pincode": 700002,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-003",
+   "name": "KMC Health Unit Branch-1 Ward-3",
+   "address1": "21 Raja Manindra Road Kolkata-700037, Landmark- Veterinary College , near Paikpara Ashubabu Bazar",
+   "latitude": 22.6088006,
+   "longitude": 88.3880377,
+   "pincode": 700037,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-022",
+   "name": "KMC Health Unit Branch-3 Ward-30",
+   "address1": "11B JNTP Lane Kolkata-700011, Landmark- Near Narkeldanga overhead Rail Bridge",
+   "latitude": 22.608742,
+   "longitude": 88.335866,
+   "pincode": 700011,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-005",
+   "name": "KMC Health Unit Branch-1 Ward-5",
+   "address1": "\"Crossing of Indra Biswas Road and Tarashankar Sarani Kolkata-700037, Landmark- Opposite Tala PS\"",
+   "latitude": 22.6075927,
+   "longitude": 88.3774884,
+   "pincode": 700037,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-100",
+   "name": "KMC Health Unit Branch-11 Ward-103",
+   "address1": "6/177A Bidhan Colony, Kolkata -700075, Landmark- Beside Rajapur United Club [near Kalibari]",
+   "latitude": 22.603485,
+   "longitude": 88.374313,
+   "pincode": 700075,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-007",
+   "name": "KMC Health Unit Branch-1 Ward-7",
+   "address1": "78/4 Bagbazar Street Kolkata-700003, Landmark- Beside Bagbazar Sarbojanin Durgotsab Math",
+   "latitude": 22.6030087,
+   "longitude": 88.3705903,
+   "pincode": 700003,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-010",
+   "name": "KMC Health Unit Branch-2 Ward-10",
+   "address1": "18 Bhupen Bose Avenue Kolkata-700004, Landmark- Near Haripada Duttaâ€™s paint shop",
+   "latitude": 22.601683,
+   "longitude": 88.3705453,
+   "pincode": 700004,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-132",
+   "name": "KMC Health Unit Branch-15  Ward-138",
+   "address1": "Bartala Railway Sideline, Kolkata-700018, Landmark- Opposite Purbasha KMC Primary School",
+   "latitude": 22.601115,
+   "longitude": 88.402703,
+   "pincode": 700018,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-008",
+   "name": "KMC Health Unit Branch-1 Ward-8",
+   "address1": "56/1 Raja Rajballabh Street Kolkata-700003, Landmark- Crossing of Bhupen Bose Avenue and Girish Avenue",
+   "latitude": 22.6008509,
+   "longitude": 88.3626888,
+   "pincode": 700003,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-009",
+   "name": "KMC Health Unit Branch-1 Ward-9",
+   "address1": "2/2A Banamali Sarkar Street Kolkata-700003, Landmark- Kumartuli Park, Shyam Mandir",
+   "latitude": 22.599746,
+   "longitude": 88.361137,
+   "pincode": 700003,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-012",
+   "name": "KMC Health Unit Branch-2 Ward-12",
+   "address1": "2/C Nilambar Mukherjee Street Kolkata-700004, Landmark- Opposite Gari Bazar",
+   "latitude": 22.598698,
+   "longitude": 88.374679,
+   "pincode": 700004,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-017",
+   "name": "KMC Health Unit Branch-2 Ward-19",
+   "address1": "11/A Nather Bagan Street Kolkata-700006, Landmark- Near Shitala Mandir",
+   "latitude": 22.5964725,
+   "longitude": 88.3559346,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-020",
+   "name": "KMC Health Unit Branch-3 Ward-14",
+   "address1": "123 Ultadanga Main Road Kolkata-700067, Landmark- Muchibazar",
+   "latitude": 22.5944816,
+   "longitude": 88.3816771,
+   "pincode": 700067,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-019",
+   "name": "KMC Health Unit Branch-3 Ward-13",
+   "address1": "17 Ultadanga Main Road Kolkata-700067, Landmark- Muchibazar",
+   "latitude": 22.5944806,
+   "longitude": 88.3816423,
+   "pincode": 700067,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-016",
+   "name": "KMC Health Unit Branch-2 Ward-18",
+   "address1": "21/1 Masjid Bari Street Kolkata-700006, Landmark- Near Dalpatti More",
+   "latitude": 22.5942245,
+   "longitude": 88.3664151,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-011",
+   "name": "KMC Health Unit Branch-2 Ward-11",
+   "address1": "160 Aurobinda Sarani Kolkata-700006, Landmark- Near KMC Garage and Bidushree Cinema Hall",
+   "latitude": 22.5941394,
+   "longitude": 88.3745203,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-018",
+   "name": "KMC Health Unit Branch-2 Ward-20",
+   "address1": "20/1B Brindaban Basak Street Kolkata-700006, Landmark- Near Oriental School",
+   "latitude": 22.592962,
+   "longitude": 88.3575033,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-031",
+   "name": "KMC Health Unit Branch-4 Ward-24",
+   "address1": "24/1 Nimtala Ghat Street,-700006, Landmark- Beside the KMC-run Community Hall",
+   "latitude": 22.591938,
+   "longitude": 88.357039,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-015",
+   "name": "KMC Health Unit Branch-2 Ward-17",
+   "address1": "22 Nilmoni Mitra Street Kolkata-700006, Landmark- Near North Maternity Home",
+   "latitude": 22.5917579,
+   "longitude": 88.3625335,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-028",
+   "name": "KMC Health Unit Branch-4 Ward-21",
+   "address1": "26 Jorabagan Street Kolkata-700006, Landmark- Near Pumping Station",
+   "latitude": 22.5914047,
+   "longitude": 88.3515745,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-014",
+   "name": "KMC Health Unit Branch-2 Ward-16",
+   "address1": "19/A Goabagan Street Kolkata-700006, Landmark- Goabagan CIT Park",
+   "latitude": 22.5908634,
+   "longitude": 88.3694667,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-033",
+   "name": "KMC Health Unit Branch-4 Ward-26",
+   "address1": "171 Ramesh Dutta Street, kolkata-700006, Landmark- Near Liberty Cinema Hall",
+   "latitude": 22.589518,
+   "longitude": 88.361288,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-029",
+   "name": "KMC Health Unit Branch-4 Ward-22",
+   "address1": "22 Maharshi Debendra Road, Kolkata-700007, Landmark- Mashlapatti, Burabazar",
+   "latitude": 22.588164,
+   "longitude": 88.353125,
+   "pincode": 700007,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-013",
+   "name": "KMC Health Unit Branch-2 Ward-15",
+   "address1": "82 Raja Dinendra Street Kolkata-700006, Landmark- Beside Pratyasha Community Hall",
+   "latitude": 22.5867352,
+   "longitude": 88.3747209,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-034",
+   "name": "KMC Health Unit Branch-4 Ward-27",
+   "address1": "36/A Madan Mitra Lane, Kolkata-700006, Landmark- Near Shreemani Market",
+   "latitude": 22.583571,
+   "longitude": 88.367802,
+   "pincode": 700006,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-041",
+   "name": "KMC Health Unit Branch-5 Ward-41",
+   "address1": "25 Bal Mukund Makkar Road, Kolkata -700007, Landmark- Near Jorasanko PS",
+   "latitude": 22.5835688,
+   "longitude": 88.355315,
+   "pincode": 700007,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-035",
+   "name": "KMC Health Unit Branch-4 Ward-28",
+   "address1": "1/5 Raja Dinendra Street, Kolkkata-700009, Landmark- Near Bengal Social Service",
+   "latitude": 22.583487,
+   "longitude": 88.376369,
+   "pincode": 700009,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-023",
+   "name": "KMC Health Unit Branch-3 Ward-31",
+   "address1": "P-19 CIT Road, Scheme-6M Kolkata-700054, Landmark- Near Phoolbagan Crossing",
+   "latitude": 22.581763,
+   "longitude": 88.38851,
+   "pincode": 700054,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-037",
+   "name": "KMC Health Unit Branch-4 Ward-39",
+   "address1": "4 Marcus Square, Kolkata -700007, Landmark- Near Mahajati Sadan",
+   "latitude": 22.5812164,
+   "longitude": 88.3633786,
+   "pincode": 700007,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-042",
+   "name": "KMC Health Unit Branch-5 Ward-42",
+   "address1": "Opposite 111 Netaji Subhas Road (below flyover), Kolkata-700001, Landmark- Under the Flyover on Brabourne Road",
+   "latitude": 22.5803426,
+   "longitude": 88.350366,
+   "pincode": 700001,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-024",
+   "name": "KMC Health Unit Branch-3 Ward-32",
+   "address1": "105 Satin Sen Sarani Kolkata-700054, Landmark- Jurassic Park",
+   "latitude": 22.5801885,
+   "longitude": 88.3901017,
+   "pincode": 700054,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-043",
+   "name": "KMC Health Unit Branch-5 Ward-43",
+   "address1": "128 Mahatma Gandhi Road, Kolkata-700007, Landmark- Near the crossing of CR Avenue and MG Road",
+   "latitude": 22.578778,
+   "longitude": 88.359709,
+   "pincode": 700007,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-036",
+   "name": "KMC Health Unit Branch-4 Ward-38",
+   "address1": "5 Fakir Chand Mitra Street, Kolkata-700009, Landmark- Opposite Keshab Apartment",
+   "latitude": 22.578257,
+   "longitude": 88.370542,
+   "pincode": 700009,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-044",
+   "name": "KMC Health Unit Branch-5 Ward-44",
+   "address1": "1 Nilmadhab Sen Lane, Kolkata-700009, Landmark- Opposite Kolkata Police Morgue",
+   "latitude": 22.577772,
+   "longitude": 88.361672,
+   "pincode": 700009,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-030",
+   "name": "KMC Health Unit Branch-4 Ward-23",
+   "address1": "3A Raja Brajendra Narayan Street, Kolkata-700007, Landmark- Near Tarasundari Park",
+   "latitude": 22.577658,
+   "longitude": 88.363299,
+   "pincode": 700007,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-131",
+   "name": "KMC Health Unit Branch-15  Ward-137",
+   "address1": "S-1 Marey Road, Kolkata -700018, Landmark- KMC Ambulance Centre beside Gandhi Maidan",
+   "latitude": 22.577391,
+   "longitude": 88.3604059,
+   "pincode": 700018,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-045",
+   "name": "KMC Health Unit Branch-5 Ward -45",
+   "address1": "Under the Flyover on Brabourne Road kolkata - 700001, Landmark- Under the Flyover on Brabourne Road",
+   "latitude": 22.576164,
+   "longitude": 88.35191,
+   "pincode": 700001,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-021",
+   "name": "KMC Health Unit Branch-3 Ward-29",
+   "address1": "40 Canal East Road Kolkata-700011, Landmark- Halsibagan, Chhagalpatti [beside Rajabazar-Narkeldanga Bridge]",
+   "latitude": 22.5758147,
+   "longitude": 88.3781081,
+   "pincode": 700011,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-038",
+   "name": "KMC Health Unit Branch-5 Ward-36",
+   "address1": "10 Harshi Street, Kolkata-700009, Landmark- Malpara Crossing, Chamrapatti",
+   "latitude": 22.5744357,
+   "longitude": 88.3730148,
+   "pincode": 700009,
+   "status": ""
+ },
+ {
+   "sku": "kmc-health-086",
+   "name": "KMC Health Unit Branch-9 Ward-80",
+   "address1": "1 Hyde Road, Kolkata -700043, Landmark- Beside Hindusthan Lever Godown",
+   "latitude": 22.572977,
+   "longitude": 88.366661,
+   "pincode": 700043,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-039",
+   "name": "KMC Health Unit Branch-5 Ward-37",
+   "address1": "92 Baithakkhana Road, Kolkata-700009, Landmark- Near Gokhana Garage",
+   "latitude": 22.572977,
+   "longitude": 88.366661,
+   "pincode": 700009,
+   "status": ""
+ },
+ {
+   "sku": "kmc-health-047",
+   "name": "KMC Health Unit Branch-5 Ward-49",
+   "address1": "34 Surya Sen Street, Kolkata - 700009, Landmark- Shraddhananda Park",
+   "latitude": 22.572137,
+   "longitude": 88.368641,
+   "pincode": 700009,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-027",
+   "name": "KMC Health Unit Branch-3 Ward-35",
+   "address1": "94 KG Bose Sarani Kolkata-700085, Landmark- Sarkar Bazar",
+   "latitude": 22.5692205,
+   "longitude": 88.3838373,
+   "pincode": 700085,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-050",
+   "name": "KMC Health Unit Branch-6 Ward-47",
+   "address1": "16 Jadunath Dey Road, Kolkata-700012, Landmark- Backside of Yogayog Bhaban",
+   "latitude": 22.568272,
+   "longitude": 88.359589,
+   "pincode": 700012,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-025",
+   "name": "KMC Health Unit Branch-3 Ward-33",
+   "address1": "Crossing of CIT Road and Hemchandra Naskar Road, Beliaghata Kolkata-700010, Landmark- Near Beliaghata PS",
+   "latitude": 22.5673773,
+   "longitude": 88.3912374,
+   "pincode": 700010,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-040",
+   "name": "KMC Health Unit Branch-5 Ward-40",
+   "address1": "22 Surya Sen Street, Kolkata-700012, Landmark- Office of Borough V of KMC [opposite College Square]",
+   "latitude": 22.5670914,
+   "longitude": 88.3537856,
+   "pincode": 700012,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-048",
+   "name": "KMC Health Unit Branch-5 Ward-50",
+   "address1": "27/1 Shashibhushan Dey Street, Kolkata-700012, Landmark- Opposite Shankharitala Post Office",
+   "latitude": 22.564243,
+   "longitude": 88.364125,
+   "pincode": 700012,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-026",
+   "name": "KMC Health Unit Branch-3 Ward-34",
+   "address1": "13 Kalitara Bose Lane Kolkata-700010, Landmark- Near Railway Bridge",
+   "latitude": 22.5622577,
+   "longitude": 88.3859611,
+   "pincode": 700010,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-049",
+   "name": "KMC Health Unit Branch-6 Ward-46",
+   "address1": "133/A/1 SN Banerjee Road Kolkata - 700013, Landmark- Near New Market PS",
+   "latitude": 22.562058,
+   "longitude": 88.355747,
+   "pincode": 700013,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-116",
+   "name": "KMC Health Unit Branch-13 Ward-118",
+   "address1": "ODA Building, 224 SN Roy Road, Kolkata -700038, Landmark- Buro Shibtala Bazar",
+   "latitude": 22.560698,
+   "longitude": 88.352358,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-054",
+   "name": "KMC Health Unit Branch-6 Ward-54",
+   "address1": "3 Girish Chandra Bose Road, Kolkata -700014, Landmark- Near Entally Market",
+   "latitude": 22.560465,
+   "longitude": 88.366504,
+   "pincode": 700014,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-052",
+   "name": "KMC Health Unit Branch-6 Ward-52",
+   "address1": "47 Collin Street, Kolkata-700016, Landmark- Western side of Haji Mohammad Mohsin Square",
+   "latitude": 22.5600409,
+   "longitude": 88.357197,
+   "pincode": 700016,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-053",
+   "name": "KMC Health Unit Branch-6 Ward-53",
+   "address1": "32 Doctor Lane, Kolkata -700014, Landmark- Near Lordpara Children Park",
+   "latitude": 22.559258,
+   "longitude": 88.3628762,
+   "pincode": 700014,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-058",
+   "name": "KMC Health Unit Branch-6 Ward-62",
+   "address1": "21 Hazi Mohammad Mohsin Square, Kolkata-700046, Landmark- Beside Kolkata Madrasa",
+   "latitude": 22.556883,
+   "longitude": 88.35807,
+   "pincode": 700046,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-059",
+   "name": "KMC Health Unit Branch-7 Ward-56",
+   "address1": "21/1 Radhanath Choudhury Road, Kolkata-700015-700015, Landmark- Near Don Bosco [Nitika] School",
+   "latitude": 22.556672,
+   "longitude": 88.380216,
+   "pincode": 700015,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-060",
+   "name": "KMC Health Unit Branch-7 Ward-57",
+   "address1": "48K DC Dey Road, Kolkata-700015, Landmark- Near Dhapa Masjid",
+   "latitude": 22.554557,
+   "longitude": 88.393469,
+   "pincode": 700015,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-061",
+   "name": "KMC Health Unit Branch-7 Ward-58",
+   "address1": "12 Gobinda Khatik Road, Kolkata-700046, Landmark- Near DN De Homoeopathy Medical College",
+   "latitude": 22.554395,
+   "longitude": 88.384221,
+   "pincode": 700046,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-046",
+   "name": "KMC Health Unit Branch-5 Ward-48",
+   "address1": "4/1D Madan Dutta Lane, Phulbagan Park Kolkata - 700012, Landmark- Phoolbagan Bustee",
+   "latitude": 22.552901,
+   "longitude": 88.353392,
+   "pincode": 700012,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-055",
+   "name": "KMC Health Unit Branch-6 Ward-55",
+   "address1": "6 Bechulal Road, Kolkata-700014, Landmark- Near Padmapukur Chamrapatti",
+   "latitude": 22.5523927,
+   "longitude": 88.370918,
+   "pincode": 700014,
+   "status": ""
+ },
+ {
+   "sku": "kmc-health-135",
+   "name": "KMC Health Unit Branch-15 Ward-141",
+   "address1": "Z-154/1 Dr. Abdul Kabir Road, Prantik, Kolkata-700044, Landmark- Near Satghara KMCP School",
+   "latitude": 22.548555,
+   "longitude": 88.28723,
+   "pincode": 700044,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-128",
+   "name": "KMC Health Unit Branch-15 Ward-134",
+   "address1": "B-3 Prince Dilwar Jah Lane, Kolkata-700024, Landmark- Matches Kal, Kamal Talkies Cimnema Hall",
+   "latitude": 22.5485493,
+   "longitude": 88.2869854,
+   "pincode": 700024,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-056",
+   "name": "KMC Health Unit Branch-6 Ward-60",
+   "address1": "Ladies Park, Dr. Sundari Mohan Avenue, Kolkata-700014, Landmark- Ladies Park",
+   "latitude": 22.548317,
+   "longitude": 88.370944,
+   "pincode": 700014,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-062",
+   "name": "KMC Health Unit Branch-7 Ward-59",
+   "address1": "6 Mahendra Chatterjee Lane, Kolkata-700046, Landmark- Near Gobra Burial Ground",
+   "latitude": 22.546373,
+   "longitude": 88.378348,
+   "pincode": 700046,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-129",
+   "name": "KMC Health Unit Branch-15  Ward-135 ",
+   "address1": "N-194 Mudiali First Lane, Kolkata-700024, Landmark- Shyamacharan Pal KMC Primary School [Mudiyali]",
+   "latitude": 22.5453702,
+   "longitude": 88.2818854,
+   "pincode": 700024,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-063",
+   "name": "KMC Health Unit Branch-7 Ward-63",
+   "address1": "9/1 Acharya Jagadish Chandra Bose Road, Kolkata-700017, Landmark- Near Mallick Bazar More",
+   "latitude": 22.545338,
+   "longitude": 88.360868,
+   "pincode": 700017,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-133",
+   "name": "KMC Health Unit Branch-15  Ward-139 ",
+   "address1": "U-119/1 Akra Road, Kolkata-700018, Landmark- Panikal Ambulance Centre, Kashyap Para Mandir",
+   "latitude": 22.544629,
+   "longitude": 88.270049,
+   "pincode": 700018,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-130",
+   "name": "KMC Health Unit Branch-15  Ward-136",
+   "address1": "Q-457/1 Jele Para, Santoshpur Road, Kolkata-700024, Landmark- Beside Mudiyali Library",
+   "latitude": 22.5437124,
+   "longitude": 88.2813345,
+   "pincode": 700024,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-057",
+   "name": "KMC Health Unit Branch-6 Ward-61",
+   "address1": "42 Jannagar Road, Kolkata-700016, Landmark- Near Park Circus 7-point",
+   "latitude": 22.543572,
+   "longitude": 88.365952,
+   "pincode": 700016,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-082",
+   "name": "KMC Health Unit Branch-9 Ward-75",
+   "address1": "2 Nitya Ghosh Street, Kolkata -700023, Landmark- Beside Royal City Hotel",
+   "latitude": 22.543306,
+   "longitude": 88.325588,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-134",
+   "name": "KMC Health Unit Branch-15  Ward-140 ",
+   "address1": "Khaldhari Road, Mullick Para, Kolkata-700018, Landmark- Beside Hatipark",
+   "latitude": 22.5417641,
+   "longitude": 88.2601536,
+   "pincode": 700018,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-064",
+   "name": "KMC Health Unit Branch-7 Ward-64",
+   "address1": "26 Dilkhusha Street, Kolkata--700017, Landmark- Beside Haj Committee Building",
+   "latitude": 22.539744,
+   "longitude": 88.368125,
+   "pincode": 700017,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-127",
+   "name": "KMC Health Unit Branch-15 Ward-133",
+   "address1": "J/315 Akshay Kanan, Paharpur Road, Kolkata-700024, Landmark- Behind United Bank of India [Paharpur Branch]",
+   "latitude": 22.5385779,
+   "longitude": 88.2895731,
+   "pincode": 700024,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-084",
+   "name": "KMC Health Unit Branch-9 Ward-77",
+   "address1": "15 Dent Mission Road, Kolkata-700023, Landmark- Opposite Fancy Market",
+   "latitude": 22.535113,
+   "longitude": 88.322576,
+   "pincode": 700023,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-065",
+   "name": "KMC Health Unit Branch-7 Ward-65",
+   "address1": "9B Tiljala Shibtala Lane, Kolkata--700039, Landmark- Near Jagabandhu Girlsâ€™ School at Kohinoor",
+   "latitude": 22.534446,
+   "longitude": 88.378501,
+   "pincode": 700039,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-070",
+   "name": "KMC Health Unit Branch-8 Ward-70",
+   "address1": "Chakraberia Road [North], Triangular Park, Kolkata-700020, Landmark- Near Lansdown Padmapukur",
+   "latitude": 22.533496,
+   "longitude": 88.3495183,
+   "pincode": 700020,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-079",
+   "name": "KMC Health Unit Branch-9 Ward-71",
+   "address1": "26 Debendra Ghosh Road, Kolkata 700025-700025, Landmark- Near Netaji Bhaban Metro Station",
+   "latitude": 22.533343,
+   "longitude": 88.345277,
+   "pincode": 700025,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-085",
+   "name": "KMC Health Unit Branch-9 Ward-78",
+   "address1": "47 Ekbalpur Road, Kolkata-700023, Landmark- Opposite Ekbalpore PS",
+   "latitude": 22.5326,
+   "longitude": 88.320882,
+   "pincode": 700023,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-066",
+   "name": "KMC Health Unit Branch-7 Ward-66",
+   "address1": "38 Sridhar Roy Road, Kolkata-700039, Landmark- Near Kustia Govt. Housing Estate",
+   "latitude": 22.530218,
+   "longitude": 88.379072,
+   "pincode": 700039,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-071",
+   "name": "KMC Health Unit Branch-8 Ward-72",
+   "address1": "Rammoy Road, Ladies Park, Kolkata-700025, Landmark- Beside Uttam Park",
+   "latitude": 22.529412,
+   "longitude": 88.34966,
+   "pincode": 700025,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-069",
+   "name": "KMC Health Unit Branch-8 Ward-69",
+   "address1": "36 Ballygunge Circular Road Kolkata - 700019, Landmark- Beside the Petrol Pump at Ballygung Phanri",
+   "latitude": 22.5282712,
+   "longitude": 88.3561847,
+   "pincode": 700019,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-left-02",
+   "name": "KMC Health Unit Branch-12 Ward-108",
+   "address1": "VIP Nagar [beside Anandamargi School], EM Bypass,-700100, Landmark- Anandamargi School",
+   "latitude": 22.5264059,
+   "longitude": 88.3934959,
+   "pincode": 700100,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-072",
+   "name": "KMC Health Unit Branch-8 Ward-83",
+   "address1": "240 Kalighat Road, Kolkata 700026-700026, Landmark- Opposite Kalighat Temple",
+   "latitude": 22.522316,
+   "longitude": 88.341468,
+   "pincode": 700026,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-067",
+   "name": "KMC Health Unit Branch-7 Ward-67",
+   "address1": "13A Swinhoe Lane, Kolkata-700042, Landmark- Near Talbagan Barafkal",
+   "latitude": 22.522015,
+   "longitude": 88.378106,
+   "pincode": 700042,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-068",
+   "name": "KMC Health Unit Branch-8 Ward-68",
+   "address1": "175/2 Rashbehari Avenue Kolkata -700019, Landmark- Near the crossing of Bijan Setu and Cornfield Rd",
+   "latitude": 22.521116,
+   "longitude": 88.368565,
+   "pincode": 700019,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-080",
+   "name": "KMC Health Unit Branch-9 Ward-73",
+   "address1": "118 Hazra Road, Kolkata-700026, Landmark- Opposite Kalighat Fire Brigade",
+   "latitude": 22.5208282,
+   "longitude": 88.3501596,
+   "pincode": 700026,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-081",
+   "name": "KMC Health Unit Branch-9 Ward-74",
+   "address1": "19B Chetla Hut Road, Kolkata -700027, Landmark- Near Gupta Sweet",
+   "latitude": 22.520057,
+   "longitude": 88.336942,
+   "pincode": 700027,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-073",
+   "name": "KMC Health Unit Branch-8 Ward-84",
+   "address1": "7 Nakuleshwar Bhattacharya Lane, Kolkata -700026, Landmark- Inside Ghoshal Park",
+   "latitude": 22.51969,
+   "longitude": 88.348868,
+   "pincode": 700026,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-087",
+   "name": "KMC Health Unit Branch-9 Ward-82",
+   "address1": "29/5 Chetla Central Road, Kolkata -700027, Landmark- Opposite Desher Khabar (Sweet-shop)",
+   "latitude": 22.517282,
+   "longitude": 88.338307,
+   "pincode": 700027,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-075",
+   "name": "KMC Health Unit Branch-8 Ward-86",
+   "address1": "7 Jatin Bagchi Road [Lake Camp], Kolkata-700029, Landmark- Behind Vivekananda Park",
+   "latitude": 22.515245,
+   "longitude": 88.359999,
+   "pincode": 700029,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-077",
+   "name": "KMC Health Unit Branch-8 Ward-88",
+   "address1": "102/1 Tollygunge Road, Kolkata-700026, Landmark- Opposite Sahanagar High School",
+   "latitude": 22.514293,
+   "longitude": 88.341506,
+   "pincode": 700026,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-090",
+   "name": "KMC Health Unit Branch-10 Ward-91",
+   "address1": "45 NK Ghoshal Road, Kolkata-700042, Landmark- Near the crossing of Surki Kal",
+   "latitude": 22.514015,
+   "longitude": 88.376064,
+   "pincode": 700042,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-078",
+   "name": "KMC Health Unit Branch-8 Ward-90",
+   "address1": "Rabindra Sarobar, Meghnath Saha Sarani [Southern Avenue] Kolkata - 700029, Landmark- Opposite Lake Kalibari",
+   "latitude": 22.513258,
+   "longitude": 88.353826,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-076",
+   "name": "KMC Health Unit Branch-8 Ward-87",
+   "address1": "Crossing of Southern Avenue and Lake Place, Kolkata-700029, Landmark- Opposite Swimming Pool",
+   "latitude": 22.513021,
+   "longitude": 88.348817,
+   "pincode": 700029,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-110",
+   "name": "KMC Health Unit Branch-12 Ward-107",
+   "address1": "10 P Majumder Road, Kayasthapara More, Kolkata-700078, Landmark- Near Kayasthapara More",
+   "latitude": 22.5109983,
+   "longitude": 88.3844355,
+   "pincode": 700078,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-091",
+   "name": "KMC Health Unit Branch-10 Ward-92",
+   "address1": "Shahid Tarakeshwar Sen Park, Babubagan, Kolkata -700031, Landmark- Near Dhakuria Kalibari",
+   "latitude": 22.508008,
+   "longitude": 88.368651,
+   "pincode": 700031,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-108",
+   "name": "KMC Health Unit Branch-12 Ward-105",
+   "address1": "Nelinagar [opposite Haltu High School], Haltu Road, Kolkata-700078, Landmark- Beside Haltu High School",
+   "latitude": 22.506624,
+   "longitude": 88.382103,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-092",
+   "name": "KMC Health Unit Branch-10 Ward-93",
+   "address1": "Bangur Park, Lake Gardens, Kolkata -700045, Landmark- Beside SBI",
+   "latitude": 22.506579,
+   "longitude": 88.356489,
+   "pincode": 700045,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-115",
+   "name": "KMC Health Unit Branch-13 Ward-117",
+   "address1": "1 Kailash Pandit Lane, Kolkata-700038, Landmark- Beside Mathuranath School",
+   "latitude": 22.5064901,
+   "longitude": 88.3348062,
+   "pincode": 700038,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-088",
+   "name": "KMC Health Unit Branch-10 Ward-81",
+   "address1": "16 Mandal Temple Road, Kolkata-700053, Landmark- Opposite Radhakrishna Mandir near",
+   "latitude": 22.505897,
+   "longitude": 88.337972,
+   "pincode": 700053,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-089",
+   "name": "KMC Health Unit Branch-10 Ward-89",
+   "address1": "48 KP Roy Lane, Kolkata -700033, Landmark- Near the crossing of Prince Anwar Shah Road",
+   "latitude": 22.505353,
+   "longitude": 88.382227,
+   "pincode": 700033,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-125",
+   "name": "KMC Health Unit Branch-14  Ward-131",
+   "address1": "Maternity Home, 28/1 Panchanantala Lane, Behala Kolkata - 700034, Landmark- Near Panchanantala Post Office",
+   "latitude": 22.5035523,
+   "longitude": 88.3144854,
+   "pincode": 700034,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-109",
+   "name": "KMC Health Unit Branch-12 Ward-106",
+   "address1": "Ramlal Bazar, Garfa Main Road, Kolkata-700078, Landmark- Ramlal Bazar [first floor]",
+   "latitude": 22.5032621,
+   "longitude": 88.382042,
+   "pincode": 700078,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-093",
+   "name": "KMC Health Unit Branch-10 Ward-94",
+   "address1": "217 Prince Anwar Shah Road, Kolkata-700033, Landmark- Office of the Borough X of KMC",
+   "latitude": 22.500889,
+   "longitude": 88.349559,
+   "pincode": 700033,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-114",
+   "name": "KMC Health Unit Branch-13 Ward-116",
+   "address1": "Breejraj Free Primary School, 294 Roy Bahadur Road Kolkata - 700053, Landmark- 294 Roy Bahadur Road",
+   "latitude": 22.4986221,
+   "longitude": 88.3329959,
+   "pincode": 700053,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-101",
+   "name": "KMC Health Unit Branch-11 Ward-104",
+   "address1": "47 Garfa Main Road, Kolkata -700075, Landmark- Beside SBI [Palbazar Branch]",
+   "latitude": 22.498603,
+   "longitude": 88.3812806,
+   "pincode": 700075,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-102",
+   "name": "KMC Health Unit Branch-11 Ward-110",
+   "address1": "Briji Road [Paschim], Gazipukur Water Tank, Garia, Kolkata-700084, Landmark- Near Gajipukur Water Tank",
+   "latitude": 22.498598,
+   "longitude": 88.383469,
+   "pincode": 700084,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-118",
+   "name": "KMC Health Unit Branch-13 Ward-120",
+   "address1": "Cococola Bagan, 68 Bamacharan Roy Road Kolkata - 700034, Landmark- Cococola Bagan",
+   "latitude": 22.4967627,
+   "longitude": 88.3242605,
+   "pincode": 700034,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-083",
+   "name": "KMC Health Unit Branch-9 Ward-76",
+   "address1": "13/2/1 Michael Dutta Street, Kolkata-700023, Landmark- Md. Jan Higher Secondary School",
+   "latitude": 22.496307,
+   "longitude": 88.301563,
+   "pincode": 700023,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-126",
+   "name": "KMC Health Unit Branch-14  Ward-132",
+   "address1": "Nababani Sangha Park, Upen Banerjee Road Kolkata - 700060, Landmark- KMC Dispensary, Nababani Sangha Park",
+   "latitude": 22.494692,
+   "longitude": 88.31612,
+   "pincode": 700060,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-124",
+   "name": "KMC Health Unit Branch-14 Ward-130",
+   "address1": "Manton Super Market, 516 Diamond Harbour Road Kolkata - 700034, Landmark- Sarat Sadan",
+   "latitude": 22.4946203,
+   "longitude": 88.3146447,
+   "pincode": 700034,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-123",
+   "name": "KMC Health Unit Branch-14 Ward-129",
+   "address1": "22B Gopal Mishra Road, Kolkata-700034, Landmark- Opposite Mohinikunja Park",
+   "latitude": 22.4932,
+   "longitude": 88.303125,
+   "pincode": 700034,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-112",
+   "name": "KMC Health Unit Branch-12 Ward-109",
+   "address1": "7 Mukundapur, Kolkata -700099, Landmark-  Mukundapur",
+   "latitude": 22.4929553,
+   "longitude": 88.4045582,
+   "pincode": 700099,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-120",
+   "name": "KMC Health Unit Branch-14 Ward-121",
+   "address1": "Rathin Dassharma Shishu Udyan, Jayashree Park Kolkata - 700034, Landmark- Jayashree Park",
+   "latitude": 22.491991,
+   "longitude": 88.3221018,
+   "pincode": 700034,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-096",
+   "name": "KMC Health Unit Branch-10 Ward-97",
+   "address1": "93 Chandi Ghosh Road, Kolkata-700040, Landmark- Near Nripendranath Boysâ€™ and Girlsâ€™ School",
+   "latitude": 22.488177,
+   "longitude": 88.3454,
+   "pincode": 700040,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-051",
+   "name": "KMC Health Unit Branch-6 Ward-51",
+   "address1": "15 Raja Subodh Mullick Square, Kolkata-700013, Landmark- Subodh Mallick Square",
+   "latitude": 22.487849,
+   "longitude": 88.373263,
+   "pincode": 700013,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-094",
+   "name": "KMC Health Unit Branch-10 Ward-95",
+   "address1": "34B Minapara Road, Samajgarh, Kolkata-700040, Landmark- Beside Ajadgarh Sitala Mandir",
+   "latitude": 22.487436,
+   "longitude": 88.358209,
+   "pincode": 700040,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-left-01",
+   "name": "KMC Health Unit Branch-10 Ward-96",
+   "address1": "Mayorâ€™s Chest Clinic, Layalka Road, Kolkata -700092, Landmark- Near Dhakuria Kalibari",
+   "latitude": 22.487436,
+   "longitude": 88.358209,
+   "pincode": 700092,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-136",
+   "name": "KMC Health Unit Branch-16 Ward-123",
+   "address1": "2 Raja Rammohan Roy Road, Kolkata -700008, Landmark- Near Behala Chowrasta",
+   "latitude": 22.487226,
+   "longitude": 88.313877,
+   "pincode": 700008,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-139",
+   "name": "KMC Health Unit Branch-16 Ward-126",
+   "address1": "76 Ho Chi Minh Sarani, Kolkata-700061, Landmark- cococola Bagan",
+   "latitude": 22.4854671,
+   "longitude": 88.2867901,
+   "pincode": 700061,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-113",
+   "name": "KMC Health Unit Branch-13 Ward-115",
+   "address1": "Dharapara Pump House, Korunamoyee Ghat Road Kolkata - 700082, Landmark- Dharapara Pump House",
+   "latitude": 22.4851164,
+   "longitude": 88.3330316,
+   "pincode": 700082,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-107",
+   "name": "KMC Health Unit Branch-12 Ward-102",
+   "address1": "Bahadur Math, Shikshabithi School, Kolkata -700086, Landmark- Beside Bahadur Math",
+   "latitude": 22.4836195,
+   "longitude": 88.3126415,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-121",
+   "name": "KMC Health Unit Branch-14 Ward-127",
+   "address1": "Sorshuna Satellite Township, Kolkata-700061, Landmark- Near Sorshuna College",
+   "latitude": 22.482438,
+   "longitude": 88.2794715,
+   "pincode": 700061,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-122",
+   "name": "KMC Health Unit Branch-14 Ward-128",
+   "address1": "39 Parui Pucca Road, Joyhind Pally, Kolkata-700061, Landmark- Joyhind Pally",
+   "latitude": 22.482282,
+   "longitude": 88.284738,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-119",
+   "name": "KMC Health Unit Branch-13 Ward-122",
+   "address1": "Sodepur Daktar Bagan, Brickfield Road Kolkata - 700008, Landmark- Daktar Bagan",
+   "latitude": 22.4743521,
+   "longitude": 88.326898,
+   "pincode": 700008,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-105",
+   "name": "KMC Health Unit Branch-11 Ward-113",
+   "address1": "Shreekanan [near Saroj Sangha], Bansdroni, Kolkata-700070, Landmark- Saroj Sangha Playground",
+   "latitude": 22.473908,
+   "longitude": 88.3560878,
+   "pincode": 700070,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-097",
+   "name": "KMC Health Unit Branch-10 Ward-98",
+   "address1": "180 Netaji Subhas Chandra Bose Road, Kolkata-700040, Landmark- Adjacent to Gachhtala Petrol Pump",
+   "latitude": 22.471947,
+   "longitude": 88.36653,
+   "pincode": 700040,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-104",
+   "name": "KMC Health Unit Branch-11 Ward-112",
+   "address1": "Madhyapara Roynagar, First Floor of the Office Building Kolkata - 700070, Landmark- Office building of Bansdroni PS",
+   "latitude": 22.4702385,
+   "longitude": 88.3598741,
+   "pincode": 700070,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-138",
+   "name": "KMC Health Unit Branch-16 Ward-125",
+   "address1": "Jaigirghat Road, Thakurpukur, Kolkata-700063, Landmark- Brahmapada KMCP School",
+   "latitude": 22.465536,
+   "longitude": 88.305212,
+   "pincode": 700063,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-137",
+   "name": "KMC Health Unit Branch-16 Ward-124",
+   "address1": "20 Dashpara Road, Purnendu Nagar, Kolkata-700063, Landmark- Thakurpukur Bazar",
+   "latitude": 22.461804,
+   "longitude": 88.310194,
+   "pincode": 700063,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-140",
+   "name": "KMC Health Unit Branch-16 Ward-142",
+   "address1": "78 Julpia Road, Chak ramnagar, Kolkata-700041, Landmark- Near Kalo pole",
+   "latitude": 22.460941,
+   "longitude": 88.329279,
+   "pincode": null,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-103",
+   "name": "KMC Health Unit Branch-11 Ward-111",
+   "address1": "A-5, Boral Main Road, Atabagan, Garia, Kolkata-700084, Landmark- Near MTTB Hospital",
+   "latitude": 22.4604795,
+   "longitude": 88.3768279,
+   "pincode": 700084,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-106",
+   "name": "KMC Health Unit Branch-12 Ward-101",
+   "address1": "Melar Math, Sanskriti Chakra, Phulbagan, Kolkata -700086, Landmark- Beside Shahid Bedi Rickshaw Stand",
+   "latitude": 22.459398,
+   "longitude": 88.378876,
+   "pincode": 700086,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-099",
+   "name": "KMC Health Unit Branch-10 Ward-100",
+   "address1": "Netaji Subhash Chandra Bose Road Kolkata - 700047, Landmark- Near Gitanjali Metro Station",
+   "latitude": 22.456145,
+   "longitude": 88.385662,
+   "pincode": 700047,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-141",
+   "name": "KMC Health Unit Branch-16 Ward-143&144",
+   "address1": "4  Diamond Park, Joka, Kolkata-700104, Landmark- Diamond Park Bus Stop",
+   "latitude": 22.452319,
+   "longitude": 88.303883,
+   "pincode": 700104,
+   "status": "yes"
+ },
+ {
+   "sku": "kmc-health-117",
+   "name": "KMC Health Unit Branch-13 Ward-119",
+   "address1": "3 SN Road Super Market, kolkata-700038, Landmark- Super Market",
+   "latitude": 22.5079311,
+   "longitude": 88.3215392,
+   "pincode": 700038,
+   "status": ""
+ },
+ {
+   "sku": "kmc-health-074",
+   "name": "KMC Health Unit Branch-8 Ward-85",
+   "address1": "3A Dover Terrace Kolkata - 700019, Landmark- Near Ramkrishna Sevak Samiti",
+   "latitude": 22.5238018,
+   "longitude": 88.3561443,
+   "pincode": 700019,
+   "status": ""
+ }
+]
+}
